@@ -39,6 +39,3 @@ function jeValidniDatum () {
 }
 
 jeValidniDatum(datum);
-
-
-console.log('Ahoj')
